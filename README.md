@@ -1,5 +1,5 @@
 
-# KFG language support in Atom
+# KFG and Spellcast! language support in Atom
 
 ![Kung Fig!](https://raw.githubusercontent.com/cronvel/kung-fig/master/kung-fig.png)
 
