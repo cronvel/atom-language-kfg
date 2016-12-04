@@ -1,0 +1,17 @@
+{
+  "name": "language-kfg",
+  "version": "0.1.0",
+  "description": "KFG language support for Atom (Kung-Fig format and Spellcast Scripting)",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/atom-language-kfg.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/atom-language-kfg/issues"
+  }
+}
