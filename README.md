@@ -3,9 +3,10 @@
 
 ![Kung Fig!](https://raw.githubusercontent.com/cronvel/kung-fig/master/kung-fig.png)
 
-*The Kung Fu of configuration files!*
 
-[**Kung-Fig**](https://github.com/cronvel/kung-fig): the **wonderful** file format!
+This is the **official** language support in Atom editor for:
 
-This is the language support for the Atom editor.
+* [**Kung-Fig**](https://github.com/cronvel/kung-fig): *The Kung Fu of configuration files!*
+* [**Spellcast!**](https://github.com/cronvel/kung-fig): *Make: your own adventure!*
+
 
