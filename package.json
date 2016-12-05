@@ -1,6 +1,6 @@
 {
   "name": "language-kfg",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "KFG and Spellcast! language support in Atom",
   "engines": {
     "atom": "*",
