@@ -324,6 +324,12 @@
 						'name': 'punctuation.definition.variable.kfg'
 					'2':
 						'name': 'variable.other.kfg'
+						'patterns': [
+							{
+								'match': '\\$|\\[|\\]'
+								'name': 'punctuation.definition.variable.kfg'
+							}
+						]
 			}
 			{
 				# nothing found? so this is an implicit string
@@ -380,6 +386,12 @@
 						'name': 'punctuation.definition.variable.kfg'
 					'2':
 						'name': 'variable.other.kfg'
+						'patterns': [
+							{
+								'match': '\\$|\\[|\\]'
+								'name': 'punctuation.definition.variable.kfg'
+							}
+						]
 			}
 			{
 				# expression built-in operator
@@ -413,6 +425,12 @@
 				'name': 'punctuation.section.embedded.kfg'
 			'2':
 				'name': 'variable.other.embedded.kfg'
+				'patterns': [
+					{
+						'match': '\\[|\\]'
+						'name': 'punctuation.section.embedded.kfg'
+					}
+				]
 			'3':
 				'name': 'entity.name.type.operator.embedded.kfg'
 			'4':
