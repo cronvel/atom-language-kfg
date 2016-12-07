@@ -268,7 +268,7 @@
 			}
 			{
 				# introduced string
-				'match': '^(>) (.*)$'
+				'match': '^(>>?) (.*)$'
 				'captures':
 					'1':
 						'name': 'punctuation.definition.string.introduced.kfg'
@@ -277,7 +277,7 @@
 			}
 			{
 				# introduced template
-				'match': '^(\\$\\$?>) (.*)$'
+				'match': '^(\\$\\$?>>?) (.*)$'
 				'captures':
 					'1':
 						'name': 'punctuation.definition.string.introduced.interpolated.kfg'
@@ -294,7 +294,7 @@
 			}
 			{
 				# introduced template element
-				'match': '^(\\$\\$?%>) (.*)$'
+				'match': '^(\\$\\$?%>>?) (.*)$'
 				'captures':
 					'1':
 						'name': 'punctuation.definition.string.introduced.interpolated.kfg'
