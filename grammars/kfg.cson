@@ -1,7 +1,7 @@
 
 'scopeName': 'source.kfg'
 'name': 'KFG'
-'fileTypes': ['kfg','spellbook']
+'fileTypes': ['kfg','spellbook','book']
 'patterns': [
 	{
 		# meta-Tag
